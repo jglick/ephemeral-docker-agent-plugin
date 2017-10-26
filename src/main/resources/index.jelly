@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    Adds a Pipeline step dockerNode to run a fresh ephemeral agent.
+</div>
